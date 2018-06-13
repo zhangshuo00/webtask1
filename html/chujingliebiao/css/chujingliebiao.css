@@ -284,8 +284,8 @@ a{
 .san00{
 	width: 47px;
 	height: 727px;
-	padding-top: 10px;
-	float: left;
+	padding-left: 1381px;
+	position: fixed;
 }
 .san000{
 	width: 47px;
