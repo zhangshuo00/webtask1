@@ -1,0 +1,202 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.first {
+	width:750px;
+	height:120px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.yh{
+	padding-left:40px;
+}
+.hengx>li{
+	float:left;	
+}
+.anjian button{
+	width:165px;
+	height:55px;
+	background:#e8420a;
+	color: white;
+	text-align: center;
+	border-radius:15px;
+	margin-left: 180px;
+	margin-right: 45px;
+	margin-top: 5px;
+	font-size: 28px;
+	border:1px solid #afafaf;
+}
+
+/*第二部分*/
+.er{
+	width: 750px;
+	height: 365px;
+	margin:0 auto;
+	background:url(../images/cc.png) no-repeat center center;
+}
+.wenzi{
+	margin-left: 160px;
+	margin-top:60px;
+}
+/*第三部分*/
+.san{
+	width: 750px;
+	height: 2430px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.tuf>li{
+	float:left;
+}
+.spotz{
+	width: 350px;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom:10px;
+	background-color: #f5f5f5;
+}
+.tu1{
+	margin-bottom: 35px;
+}
+.wen1{
+	line-height: 30px;
+	margin-bottom: 40px;
+	font-size: 20px;
+}
+.wenhui{
+	color: #8a8a8a;
+}
+.price{
+	font-size:20px;
+	color: red;
+}
+.more{
+	width: 135px;
+	height: 35px;
+	margin:0 auto;
+	background-color: #e8420a;
+	border-radius:10px;
+	margin-top: 40px;
+	color: white;
+	height: 35px;
+	line-height: 35px;
+}
+.spot1{	
+	height: 580px;
+}
+.spot2{	
+	height: 770px;
+}
+.spot3{
+	height: 620px;
+}
+.spot4{
+	height: 655px;
+}
+.spot5{
+	height: 805px;
+}
+.spot6{
+	height: 655px;
+}
+.zyj{
+	margin-left: 20px;
+	margin-right:10px
+}
+.parent{
+	position: relative;
+}
+.button{
+	width: 666px;
+	height: 86px;
+	background:none;
+	border:1px solid #afafaf; 
+	border-radius:15px;
+	text-align: center;
+	position: absolute;
+	left:42px;
+	bottom:77px;
+	color: #afafaf;
+	font-size: 33.5px;
+}
+/*第四部分*/
+.huit{
+	width: 750px;
+	height: 20px;
+	background: #f5f5f5;
+	margin:0 auto;
+}
+
+.si{
+	width: 750px;
+	height: 210px;
+	margin:0 auto;
+	padding-top: 45px;
+}
+.VIP{
+	margin-left:40px;
+	margin-right: 20px;
+}
+.VIPwen{
+	margin-right: 30px;
+}
+.head{
+	color: red;
+	margin-bottom: 35px;
+}
+.headx{
+	color: #1c5080;
+	margin-bottom: 35px;
+}
+.lj{
+	width: 160px;
+	height: 55px;
+	border:1px solid #afafaf; 
+	border-radius: 10px;
+	background: none;
+	margin-top:40px;
+	font-size: 28px;
+	color: #666666;
+}
+.line{
+	line-height: 30px;
+	color: gray;
+	font-size: 22px;
+}
+/*第五部分*/
+.wu{
+	width: 750px;
+	height: 480px;
+	background: #343235;
+	margin:0 auto;
+	padding-top: 65px;
+}
+.rexian{
+	width: 670px;
+	height: 100px;
+	border:2px solid white;
+	margin:0 auto;
+	font-size:30px;
+	color: white;
+	text-align:center;
+	line-height:100px;
+}
+.wu>p{
+	color: white;
+	text-align: center;
+	font-size: 22px;
+}
+.dizhi{
+	margin-top: 45px;
+	margin-bottom: 58px;
+}
+.lh{
+	margin-bottom:20px;
+}
