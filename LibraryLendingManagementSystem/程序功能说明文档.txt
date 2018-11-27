@@ -1,0 +1,26 @@
+Commodity.java(基类)
+
+Books.java
+  打印图书信息
+
+DVDs.java
+  打印DVD信息
+
+CommoditySystem.java
+  新增图书和DVD，并写入文件product.txt中
+  打印所有商品信息
+
+MemberInformation.java
+  定义会员各项信息的属性
+  新增会员，并写入文件member.txt中
+  修改会员姓名
+  修改会员电话
+  打印会员信息
+
+BorrowingSystem.java
+  借阅图书/借阅DVD，并将会员信息与借阅的图书/DVD信息存入record.txt中
+  归还图书/归还DVD，将record.txt文件中的借阅记录删除
+
+Test.java
+  显示功能界面
+  实现所有功能
